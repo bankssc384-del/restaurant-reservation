@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 /* ─────────────────────────────────────
    ⚠️ CONFIGURATION — À MODIFIER
 ───────────────────────────────────── */
-define( 'RR_GITHUB_USER', 'TON_USERNAME_GITHUB' );  // ex: 'jean-dupont'
+define( 'RR_GITHUB_USER', 'bankssc384-del' );  // ex: 'jean-dupont'
 define( 'RR_GITHUB_REPO', 'restaurant-reservation' ); // ex: 'restaurant-reservation'
 
 /* ─────────────────────────────────────
