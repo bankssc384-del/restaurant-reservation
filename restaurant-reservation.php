@@ -3,14 +3,14 @@
  * Plugin Name: Réservation Restaurant
  * Plugin URI:  https://github.com/TON_USERNAME_GITHUB/restaurant-reservation
  * Description: Système complet de réservation : design personnalisable, archivage RGPD, SMS, gestion d'équipe, application mobile (PWA). Mises à jour auto via GitHub.
- * Version:     4.1.1
+ * Version:     4.1.2
  * Author:      Votre Restaurant
  * License:     GPLv2 or later
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-define( 'RR_VERSION',     '4.1.1' );
+define( 'RR_VERSION',     '4.1.2' );
 define( 'RR_DIR',         plugin_dir_path( __FILE__ ) );
 define( 'RR_URL',         plugin_dir_url( __FILE__ ) );
 define( 'RR_SESSION_KEY', 'rr_admin_user' );
